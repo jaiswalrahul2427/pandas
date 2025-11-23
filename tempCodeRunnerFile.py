@@ -1,0 +1,1 @@
+print("Print about data datatypr and memory storage:\n",data.info())
