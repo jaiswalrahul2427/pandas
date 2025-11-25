@@ -12,4 +12,5 @@ df2=pd.DataFrame(data2)
 
 print(df1)
 print(df2)
-1:09:54
+
+print(pd.merge(df1,df2,on="Emp ID"))
